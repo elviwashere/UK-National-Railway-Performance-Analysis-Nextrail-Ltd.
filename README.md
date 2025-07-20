@@ -145,18 +145,17 @@ Between January and April 2024, total journeys dropped 4.36%, yet peak-hour trip
 - Prioritize delay reduction strategies to tackle refund losses, as 68% of refunds are triggered by late arrivals.  
 - Replicate London’s efficiency model across other cities to improve overall profitability and reduce refund rates.  
 
-### RAILWAY PERFORMANCE
+### Railway Dashboard
 
 - Operations Team must prioritize route-level planning and address avoidable issues like signal and staffing failures, since 64% of cancellations are concentrated on just 5 routes and largely stem from preventable causes.  
 - Product Team must refine refund policies to better reflect real passenger impact, since current patterns show high refunds for short delays while severe delays—despite clear disruption—often go uncompensated.  
-
-**To address these issues, the following revised refund policy is recommended:**  
+To address these issues, the following revised refund policy is recommended: 
 - No refunds for delays less than 15 minutes  
 - 25% refund for delays between 15–30 minutes  
 - 50% refund for delays between 30–60 minutes  
 - 100% refund for delays over 60 minutes  
 
-### ROUTE METRICS
+### Route Metrics
 
 - Product team must optimize scheduling and capacity on top routes like Manchester Piccadilly–Liverpool Lime Street since they drive 15% of total journeys.  
 - Marketing team must launch targeted campaigns or bundled ticket incentives for the York–Birmingham New Street route since its usage is critically low (0.05%), indicating untapped market potential.  
